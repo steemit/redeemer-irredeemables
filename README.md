@@ -6,8 +6,10 @@ Redeemer normally reaps *most* of the initial creation delegation (leaving them 
 
 # Update Procedure
 
+1. Make a new branch
 1. Check in file using `YYYYMMDD.filename.txt` format (optionally removing old version)
 1. Run `make` to regenerate `full.txt` (which is derived data and technically shouldn't be in git, but the file is actually fetched from `github.com` by redeemer so the full list needs to be in git).
+1. Create a PR to `master`.
 
 # See also
 
