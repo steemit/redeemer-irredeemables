@@ -1,4 +1,4 @@
-# redeemer-deplorables
+# redeemer-irredeemables
 
 This repo contains the abuser username list for Redeemer, the script that reaps delegation from faucet-created users.
 
